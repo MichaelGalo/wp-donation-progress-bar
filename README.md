@@ -4,7 +4,7 @@ This plugin aims to display visually the target and current fundraising values f
 
 ## Description
 
-This is my first React plugin I'm going to attempt to connect to a WordPress ecosystem.
+From my limited understanding of custom gutenberg block types in wordpress development, one typically wraps a custom block type or types inside of a plugin to fully enscapsulate the block and allow for easier maintainability of the codebase. While this app serves simply as a single custom block, it will be exported as a plugin to a wordpress site.
 
 ## Requirements
 
